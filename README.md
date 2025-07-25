@@ -1,5 +1,5 @@
 # Diabetes-Dataset
-
+https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes?resource=download
 GROUP 1
 •Alex Metto
 •Gideon Kiplangat
@@ -9,6 +9,12 @@ GROUP 1
 This user manual provides guidance on how to use and interpret the Power BI dashboard developed for analyzing diabetes-related health indicators. The dashboard uses an open-source Kaggle dataset containing key features like glucose, BMI, age, and diabetes outcomes.
 Accessing the Dashboard
 Open the Power BI report file (.pbix) using Power BI Desktop. Make sure you have the latest version installed. Navigate through the report pages using the tabs at the bottom of the Power BI window.
+
+# Dashboard Visualization 
+<img width="503" height="283" alt="image" src="https://github.com/user-attachments/assets/8f082054-d543-4d5a-9158-7365a7c5d1c0" />
+
+
+
 # Dashboard Sections
 Pie Chart - Diabetes Outcome Distribution
 This chart shows the proportion of individuals diagnosed with diabetes (Outcome = 1) versus those not diagnosed (Outcome = 0). Use this visual to understand the prevalence of diabetes in the dataset.
